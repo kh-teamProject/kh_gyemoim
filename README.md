@@ -1,6 +1,15 @@
 # 계모임 솔루션
 계모임에서는 계주 먹튀라는 사례가 흔하게 나오는점을 고려해서 돈을 들고 도망갈 수 없는 시스템을 고려하여 시작한 계모임 금융 플팻폼
 
+## 참여 맴버
+- [권오수](https://github.com/kwonohsoo): 로그인(세션 및 쿠키 활용, 인터셉터 및 필터 활용)
+- [길현지](https://github.com/khyunji99): 게시판 페이징, 검색 및 조회수
+- [김지연](https://github.com/kmm05): 게시판 상세보기, 첨부파일 상세보기
+- [김찬희](https://github.com/chaaanhee): 게시판 쓰기 및 수정, 댓글 작성, 첨부파일 업로드, 수정 및 다운로드
+- [민재홍](https://github.com/JaeHong94): 게시판 겅색 페이징, 글 삭제, 댓글 리스트 불러오기
+- [이유진](https://github.com/e-u-gene): 개인정보 수정 및 삭제, 댓글 삭제
+- [이현지](https://github.com/HYUNJI830): 회원가입, 댓글 수정
+
 ## 사용 기술
 ![image](https://user-images.githubusercontent.com/116752166/236684370-eba4a6a2-3385-47b4-9752-fbf6f2e860c2.png)
 
